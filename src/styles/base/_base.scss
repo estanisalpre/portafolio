@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// HTML
+html{
+    height: 300vh;
+    width: 100vw;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+#root{
+    height: 100%;
+    width: 100%;
+}
+
+
+
+// Tesing gsap y lenis
+.elemento-animado {
+  width: 100%;
+  height: 300px; /* Ajusta esto según el tamaño que desees */
+  background-color: lightblue; /* Solo para ver el elemento */
+  margin: 50px 0;
+}
